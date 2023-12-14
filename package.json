@@ -15,7 +15,8 @@
 		"@nativescript/core": "~8.6.1",
 		"@nativescript/localize": "^5.2.0",
 		"nativescript-vue": "3.0.0-beta.11",
-		"pinia": "^2.1.7"
+		"pinia": "^2.1.7",
+		"router-vue-native": "^2.1.0"
 	},
 	"devDependencies": {
 		"@nativescript/tailwind": "~2.0.1",

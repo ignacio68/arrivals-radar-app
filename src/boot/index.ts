@@ -1,3 +1,4 @@
+// import { router } from '@/routes';
 import { App } from 'nativescript-vue';
 import { createPinia } from 'pinia';
 

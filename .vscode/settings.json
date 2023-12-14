@@ -2,7 +2,8 @@
   "editor.suggestSelection": "first",
   "editor.codeActionsOnSave": {
 
-    "source.fixAll.stylelint": "explicit"
+    "source.organizeImports": true,
+    "source.fixAll.stylelint": true
   },
   "nativescript.analytics.enabled": true,
   "workbench.startupEditor": "newUntitledFile",
@@ -165,7 +166,7 @@
   "eslint.options": {
     "extensions": [".html", ".js", ".vue", ".jsx", ".ts", ".tsx"]
   },
-  "eslint.validate": ["javascript", "javascriptreact", "html", "typescript", "typescriptreact", "json"],
+  "eslint.validate": ["javascript", "javascriptreact", "html", "typescript", "typescriptreact", "json", "vue"],
   "peacock.favoriteColors": [
     {
       "name": "Nativescript Blue",
@@ -231,8 +232,6 @@
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.tabs.title": "${cwd}",
-  "prettier.printWidth": 200,
-  "prettier.trailingComma": "none",
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "editor.unicodeHighlight.invisibleCharacters": false,
   "workbench.colorTheme": "Material Dark",

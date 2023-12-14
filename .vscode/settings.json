@@ -1,0 +1,284 @@
+{
+  "editor.suggestSelection": "first",
+  "editor.codeActionsOnSave": {
+
+    "source.fixAll.stylelint": "explicit"
+  },
+  "nativescript.analytics.enabled": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "terminal.integrated.profiles.windows": {
+    "PowerShell -NoProfile": {
+      "source": "PowerShell",
+      "args": ["-NoProfile"]
+    }
+  },
+  "cSpell.allowCompoundWords": true,
+  "cSpell.language": "en, es",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "aerodromo",
+    "algoliasearch",
+    "androidx",
+    "axios",
+    "bbox",
+    "Bezier",
+    "bulma",
+    "CCS's",
+    "chunck",
+    "colum",
+    "covid",
+    "deci",
+    "destructured",
+    "devan",
+    "dsmcode",
+    "echarts",
+    "ecma",
+    "Ellipsize",
+    "esmodules",
+    "esnext",
+    "ESNEXT",
+    "finalizaci",
+    "finalización",
+    "gantt",
+    "geojson",
+    "geolocalización",
+    "hecto",
+    "Helvetica",
+    "iAdvize",
+    "ignacio",
+    "IPHONEOS",
+    "iqkeyboardmanager",
+    "Istambul",
+    "jsdevtools",
+    "keyv",
+    "knip",
+    "Knip",
+    "kpis",
+    "maki",
+    "mapboxgl",
+    "mipmap",
+    "mustek",
+    "myarn",
+    "n",
+    "nstudio",
+    "nuxt",
+    "nuxtjs",
+    "objc",
+    "omnibox",
+    "PEPITO",
+    "pinia",
+    "plmservices",
+    "psswd",
+    "qunit",
+    "recalculando",
+    "redaxios",
+    "replanificaci",
+    "replanificación",
+    "replanificado",
+    "Replanificando",
+    "Replanificar",
+    "rgba",
+    "Rinwizz",
+    "runan",
+    "secuenciador",
+    "SENDERISMO",
+    "signup",
+    "skuid",
+    "socketio",
+    "spain",
+    "stryker",
+    "svgs",
+    "tailwindcss",
+    "tauri",
+    "testid",
+    "triniwiz",
+    "tslib",
+    "Unencrypted",
+    "vetur",
+    "visionos",
+    "vuejs",
+    "vuetify",
+    "vuex",
+    "wasm",
+    "xhttp"
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": true,
+  "editor.renderControlCharacters": false,
+  "editor.tabSize": 2,
+  "json.maxItemsComputed": 20000,
+  "tabnine.experimentalAutoImports": true,
+  "files.trimTrailingWhitespace": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.enableFiletypes": ["vue", "vue-html", "xml"],
+  "editor.columnSelection": false,
+  "material-icon-theme.activeIconPack": "vue",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "material-icon-theme.folders.color": "#90a4ae",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.preferredDarkColorTheme": "Material Dark",
+  "prettier.vueIndentScriptAndStyle": true,
+  "files.exclude": {
+    "**/.DS_Store": false,
+    "**/.git": false,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/apps/demo": false,
+    "**/apps/demo-angular": false,
+    "**/apps/demo-vue": false,
+    "**/CVS": false,
+    "**/packages/goodbye": false,
+    "**/packages/nativescript-mustek-printer": false,
+    "**/Thumbs.db": false,
+    "**/packages/nativescript-label-marquee": false,
+    "**/packages/nativescript-radio-button": true,
+    "**/packages/nativescript-shimmer": true
+  },
+  "search.exclude": {
+    "**/apps/demo": false,
+    "**/apps/demo-angular": false,
+    "**/apps/demo-vue": false,
+    "**/packages/nativescript-vue-geocoder": true,
+    "**/packages/goodbye": false,
+    "**/packages/nativescript-mustek-printer": false,
+    "**/packages/nativescript-label-marquee": false,
+    "**/packages/nativescript-radio-button": true,
+    "**/packages/nativescript-shimmer": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "eslint.options": {
+    "extensions": [".html", ".js", ".vue", ".jsx", ".ts", ".tsx"]
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "html", "typescript", "typescriptreact", "json"],
+  "peacock.favoriteColors": [
+    {
+      "name": "Nativescript Blue",
+      "value": "#3A57F5"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    },
+    {
+      "name": "Rust Blue",
+      "value": "#3D5466"
+    },
+    {
+      "name": "Typescript Blue",
+      "value": "#007acc"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    }
+  ],
+  "peacock.affectDebuggingStatusBar": true,
+  "peacock.affectStatusAndTitleBorders": true,
+  "peacock.affectTabActiveBorder": true,
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "editor.fontLigatures": true,
+  "editor.autoClosingQuotes": "always",
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontWeight": 400,
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "stash-push:command", "switch:command", "push:command"],
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.tabs.title": "${cwd}",
+  "prettier.printWidth": 200,
+  "prettier.trailingComma": "none",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "workbench.colorTheme": "Material Dark",
+  "git.ignoreRebaseWarning": true,
+  "aws.samcli.enableCodeLenses": true,
+  "lldb.library": "/Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+  "aws.suppressPrompts": {
+    "codeWhispererConnectionExpired": true
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["manifest.json"],
+      "url": "https://json.schemastore.org/chrome-manifest.json"
+    }
+  ],
+  "window.zoomLevel": 1,
+  "gitlens.proxy": {},
+  "githubPullRequests.createOnPublishBranch": "never",
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "lldb.launch.expressions": "native"
+}

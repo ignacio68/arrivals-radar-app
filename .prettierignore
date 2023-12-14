@@ -1,0 +1,14 @@
+!*.ts
+!*.tsx
+!*.json
+!*.js
+!*.vue
+*.yml
+.git/
+.husky/
+.nyc_output/
+.vscode/
+coverage/
+hooks/
+node_modules/
+platforms/

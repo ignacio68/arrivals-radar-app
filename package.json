@@ -1,40 +1,42 @@
 {
-  "name": "arrivals-radar-app",
-  "main": "src/app.ts",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "test": "vitest --run --coverage",
-    "test:watch": "vitest --watch --coverage",
-    "lint": "npx eslint --ignore-path .eslintignore --ext .ts,.vue",
-    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
-    "run:android": "ns run android --env.vueDevtools",
-    "run:ios": "ns run ios --env.vueDevtools"
-  },
-  "dependencies": {
-    "@nativescript/core": "~8.6.1",
-    "nativescript-vue": "3.0.0-beta.11",
-    "pinia": "^2.1.7"
-  },
-  "devDependencies": {
-    "@nativescript/tailwind": "~2.0.1",
-    "@nativescript/types": "~8.6.1",
-    "@nativescript/webpack": "~5.0.0",
-    "@types/node": "^18.19.1",
-    "@typescript-eslint/eslint-plugin": "^6.14.0",
-    "@typescript-eslint/parser": "^6.14.0",
-    "@vitejs/plugin-vue": "^4.5.2",
-    "@vue/test-utils": "^2.4.3",
-    "eslint": "^8.55.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.0.1",
-    "eslint-plugin-vue": "^9.19.2",
-    "jsdom": "^23.0.1",
-    "lint-staged": "^15.2.0",
-    "prettier": "^3.1.1",
-    "prettier-plugin-tailwindcss": "^0.5.9",
-    "tailwindcss": "^3.1.8",
-    "typescript": "^5.2.2",
-    "vitest": "^1.0.4"
-  }
+	"name": "arrivals-radar-app",
+	"main": "src/app.ts",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"test": "vitest --run --coverage",
+		"test:watch": "vitest --watch --coverage",
+		"lint": "npx eslint --ignore-path .eslintignore --ext .ts,.vue",
+		"format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+		"run:android": "ns run android --env.vueDevtools",
+		"run:ios": "ns run ios --env.vueDevtools"
+	},
+	"dependencies": {
+		"@nativescript/core": "~8.6.1",
+		"nativescript-vue": "3.0.0-beta.11",
+		"pinia": "^2.1.7"
+	},
+	"devDependencies": {
+		"@nativescript/tailwind": "~2.0.1",
+		"@nativescript/types": "~8.6.1",
+		"@nativescript/webpack": "~5.0.0",
+		"@types/node": "^18.19.1",
+		"@types/webpack-env": "^1.18.4",
+		"@typescript-eslint/eslint-plugin": "^6.14.0",
+		"@typescript-eslint/parser": "^6.14.0",
+		"@vitejs/plugin-vue": "^4.5.2",
+		"@vue/test-utils": "^2.4.3",
+		"eslint": "^8.55.0",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-plugin-prettier": "^5.0.1",
+		"eslint-plugin-vue": "^9.19.2",
+		"husky": "^8.0.3",
+		"jsdom": "^23.0.1",
+		"lint-staged": "^15.2.0",
+		"prettier": "^3.1.1",
+		"prettier-plugin-tailwindcss": "^0.5.9",
+		"tailwindcss": "^3.1.8",
+		"typescript": "^5.2.2",
+		"vitest": "^1.0.4"
+	}
 }
